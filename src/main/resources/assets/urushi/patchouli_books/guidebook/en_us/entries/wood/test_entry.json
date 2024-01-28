@@ -1,7 +1,7 @@
 {
   "name": "Test Entry",
   "icon": "minecraft:writable_book",
-  "category": "guidebook:test_category",
+  "category": "urushi:category_wood",
   "pages": [
     {
       "type": "patchouli:text",

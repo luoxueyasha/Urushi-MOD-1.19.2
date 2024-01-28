@@ -1,0 +1,17 @@
+{
+  "name": "book.urushi.entries.intro.entries_contact.name",
+  "icon": "minecraft:writable_book",
+  "category": "urushi:category_intro",
+  "pages": [
+    {
+      "type": "patchouli:link",
+      "text": "book.urushi.entries.intro.entries_contact.page_01",
+      "url": "https://discord.gg/vEhW6m9mtq",
+      "link_text": "book.urushi.entries.intro.entries_contact.page_01.link"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.urushi.entries.intro.entries_contact.page_02"
+    }
+  ]
+}

@@ -2271,7 +2271,27 @@
 	"info.urushi.japanese_cedar_sapling": "Generated on hills and in the Kakuriyo Dimension",
 	"info.urushi.lacquer_sapling": "Generated in forests, spawner chests and chests in villages in plains.",
 
-   "patchouli.urushi.book.name": "Trip to the Underroot",
-   "patchouli.urushi.book.subtitle": "Utsushiyo Banare",
-   "patchouli.urushi.book.landing_text": "The guide that helps you travel through the worlds of Urushi. Ready for your $(#cc3345)afterlife$(#000)?"
+   "book.urushi.name": "Trip to the Underroot",
+   "book.urushi.subtitle": "Utsushiyo Banare",
+   "book.urushi.landing_text": "The guide that helps you travel through the worlds of Urushi. Ready for your $(#cc3345)afterlife$(#000)?",
+
+   "book.urushi.category.category_intro.name": "1. Introduction",
+   "book.urushi.category.category_intro.desc": "This is the introduction part of the whole guidebook.",
+
+   "book.urushi.entries.intro.entries_intro.name": "1.1 Welcome",
+   "book.urushi.entries.intro.entries_intro.page_01": "Welcome to Urushi!$(br2)Glad you downloaded this fantasic Japanese-themed mod and ready to start your adventure.$(br2)Like other Patchouli handbooks, you can flip through pages by arrows at the bottom of the pages, or scrol with your mousewheel if you like.",
+   "book.urushi.entries.intro.entries_intro.page_02": "Urushi(漆) is a mod containing traditional Japanese food, buildings, magic, and more.$(br2)If you are a fan of Japan traditional culture, this mod is your kind of thing.$(br2)Or don't worry if you know nothing about Japan, take easy and treat it as a new experience!",
+   "book.urushi.entries.intro.entries_intro.page_03": "To be noticed that some contents are working in progress, so please be patience for further updates.$(br2)Also apologize for our poor English, please join our official $(l:intro:entries_contact)Discord Server$() for more discussion.",
+   "book.urushi.entries.intro.entries_intro.page_04": "Now take your time and enjoy Urushi!$(br)Click the \"Back\" button below or right-click to continue your journey.",
+
+   "book.urushi.entries.intro.entries_contact.name": "1.2 Contact us",
+   "book.urushi.entries.intro.entries_contact.page_01": "Join our official Discord Server for futher notice!$(br)(Mainly Japanese)",
+   "book.urushi.entries.intro.entries_contact.page_01.link": "Urushi Discord",
+   "book.urushi.entries.intro.entries_contact.page_02": "$(o)[This part belongs to Iwaliner, なんか言いたいことあるのはここで書いてお願いします]",
+   "book.urushi.entries.intro.entries_contact.page_02.link": "X(Twitter) @イワライナー",
+   "book.urushi.entries.intro.entries_contact.page_03": "$(o)Pleasure for me to attend this project by using my poor Japanese skills. Arigatougozaimasu Iwaliner=SAN.$(br)$()~luoxueyasha, guidebook writer, zh_cn translator",
+
+
+   "book.urushi.category_wood.name": "Getting Wood",
+   "book.urushi.category_wood.desc": ""
 }

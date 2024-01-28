@@ -1,0 +1,12 @@
+{
+  "type": "patchouli:shapeless_book_recipe",
+  "ingredients": [
+    {
+      "item": "urushi:lacquer_sapling"
+    },
+    {
+      "item": "minecraft:book"
+    }
+  ],
+  "book": "guidebook"
+}
