@@ -2286,6 +2286,7 @@
 
    "book.urushi.entries.intro.entries_contact.name": "1.2 Contact us",
    "book.urushi.entries.intro.entries_contact.page_01": "Join our official Discord Server for futher notice!$(br)(Mainly Japanese)",
+   "book.urushi.entries.intro.entries_contact.page_01.url": "https://discord.com/invite/JQUUR8rRCJ",
    "book.urushi.entries.intro.entries_contact.page_01.link": "Urushi Discord",
    "book.urushi.entries.intro.entries_contact.page_02": "$(o)[This part belongs to Iwaliner, なんか言いたいことあるのはここで書いてお願いします]",
    "book.urushi.entries.intro.entries_contact.page_02.link": "X(Twitter) @イワライナー",
