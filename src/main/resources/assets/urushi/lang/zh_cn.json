@@ -2272,9 +2272,10 @@
 
   "book.urushi.name": "现世离",
   "book.urushi.subtitle": "ウツシヨバナレ",
-  "book.urushi.landing_text": "带你穿梭于漆（Urushi）的玄妙世界间的指南书。准备好奔赴$(#cc3345)往生$(#000)了吗？"
+  "book.urushi.landing_text": "带你穿梭于漆（Urushi）的玄妙世界间的指南书。准备好奔赴$(#cc3345)往生$(#000)了吗？",
 
-
+  "book.urushi.category_wood.name": "Getting Wood",
+  "book.urushi.category_wood.desc": ""
 
 
 

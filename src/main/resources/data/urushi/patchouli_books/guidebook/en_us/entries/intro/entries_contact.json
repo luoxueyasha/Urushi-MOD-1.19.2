@@ -1,0 +1,26 @@
+{
+  "name": "book.urushi.entries.intro.entries_contact.name",
+  "icon": "minecraft:writable_book",
+  "category": "urushi:category_intro",
+  "pages": [
+    {
+      "type": "patchouli:link",
+      "text": "book.urushi.entries.intro.entries_contact.page_01",
+      "url": "book.urushi.entries.intro.entries_contact.page_01.url",
+      "link_text": "book.urushi.entries.intro.entries_contact.page_01.link",
+      "anchor": "anchor_discord"
+    },
+    {
+      "type": "patchouli:link",
+      "text": "book.urushi.entries.intro.entries_contact.page_02",
+      "url": "book.urushi.entries.intro.entries_contact.page_02.url",
+      "link_text": "book.urushi.entries.intro.entries_contact.page_02.link"
+    },
+    {
+      "type": "patchouli:link",
+      "text": "book.urushi.entries.intro.entries_contact.page_03",
+      "url": "book.urushi.entries.intro.entries_contact.page_03.url",
+      "link_text": "book.urushi.entries.intro.entries_contact.page_03.link"
+    }
+  ]
+}
